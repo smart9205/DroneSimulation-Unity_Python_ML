@@ -11,6 +11,9 @@ Specifically:
   <tr>
     <td><img src="https://user-images.githubusercontent.com/114035408/235415007-f5ea07c0-315e-411c-8bfa-f9141efa088e.jpg" alt="Image 1" ></td>    
   </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/114035408/235415011-2c9dcf07-e7a2-4784-b1ff-98c5c634f5b5.jpg" alt="Image 2" width="200" height="200"></td>
+  </tr>
 </table>
 
 # How to run the project
