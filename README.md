@@ -2,7 +2,7 @@
 
 Implement a simulator of a quadcopter.
 Specifically:
-- Quadcopter with two cameras in front, in a city setting
+- Quadcopter with two cameras in front for stereo vision, in a city setting
 - Use Unity 3D, with physics
 - Support MAVSDK API
 - Integration with OpenAI Gym, PyTorch
